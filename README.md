@@ -1,4 +1,4 @@
-[![hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=vqh20)]
+![hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=vqh20)
 
 ## Stats
 
