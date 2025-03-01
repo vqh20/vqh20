@@ -1,8 +1,9 @@
 # Hi, I'm Vu Quoc Hung 👋👋👋
 
-##### 🌴 I am a graduate of Hanoi University of Architecture, majoring in information technology. 
-##### 💪 Currently, I am learning about React js, React Native, C#...
-##### ️🏀 Fun fact: I like playing spost, football.
+- 🌴 I am a graduate of Hanoi University of Architecture, majoring in information technology. 
+- 💪 Currently, I am learning about React js, React Native, C#...
+- ️🏀 Fun fact: I like playing spost, football.
+- 📫 Contact: vqhung141120@gmail.com
 
 
 
