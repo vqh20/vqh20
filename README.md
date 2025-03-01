@@ -86,18 +86,14 @@ I am a graduate of Hanoi University of Architecture, majoring in information tec
 [ambient_gradient]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient
 
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
-[default_repocard_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard
-[transparent_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=transparent
-[shadow_red_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_red
-[shadow_green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green
-[shadow_blue_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_blue
 
-[dark_repo]: [https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&cache_seconds=86400&theme=dark
+[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&cache_seconds=86400&theme=dark (https://github.com/vqh20/QL_DLKB_FrontEnd)
 
-[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=radical
-[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=merko
+[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&cache_seconds=86400&theme=radical
+[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=LIBRARIA&cache_seconds=86400&theme=merko
 [gruvbox_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox
+
+
 [gruvbox_light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox_light
 [tokyonight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight
 [onedark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=onedark
@@ -165,6 +161,3 @@ I am a graduate of Hanoi University of Architecture, majoring in information tec
 [ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 
 
-[add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
-
-Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
