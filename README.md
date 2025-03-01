@@ -11,31 +11,10 @@
 
 ## Popular reopsitories
 
-  ![dark][dark_repo]   ![radical][radical_repo] 
-  ![merko][merko_repo]   ![gruvbox][gruvbox_repo] 
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&show_icons=true&theme=radical)](https://github.com/vqh20/QL_DLKB_FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&show_icons=true&theme=dark)](https://github.com/vqh20/QL_DLKB-BACKEND)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=LIBRARIA&show_icons=true&theme=merko)](https://github.com/vqh20/LIBRARIA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&show_icons=true&theme=gruvbox)](https://github.com/vqh20/QL_DLKB_FrontEnd)
 
-[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&cache_seconds=86400&theme=dark 
-
-[radical_repo]:  https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&cache_seconds=86400&theme=radical
-[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=LIBRARIA&cache_seconds=86400&theme=merko
-[gruvbox_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd)](https://github.com/vqh20/QL_DLKB_FrontEnd)
-
-[gruvbox_light_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox_light
-[tokyonight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight
-[onedark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=onedark
-[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
-[synthwave_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=synthwave
-[highcontrast_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
-[dracula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dracula
-[prussian_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=prussian
-
-[rose_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=rose
-[holi_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=holi
-[neon_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=neon
-[blue_navy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy
-[calm_pink_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink
-[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 
 
