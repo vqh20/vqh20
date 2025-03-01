@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vu Quoc Hung</h1>
+# Hi, I'm Vu Quoc Hung
 
 ## Stats
 
