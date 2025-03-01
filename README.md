@@ -11,7 +11,7 @@
 
 ## Popular reopsitories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&show_icons=true&theme=radical)](https://github.com/vqh20/QL_DLKB_FrontEnd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&show_icons=true&theme=dark)](https://github.com/vqh20/QL_DLKB-BACKEND)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&show_icons=true&theme=synthwave)](https://github.com/vqh20/QL_DLKB-BACKEND)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=LIBRARIA&show_icons=true&theme=merko)](https://github.com/vqh20/LIBRARIA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&show_icons=true&theme=gruvbox)](https://github.com/vqh20/QL_DLKB_FrontEnd)
 
