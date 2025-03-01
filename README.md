@@ -8,7 +8,7 @@
    ![merko][merko_repo]   ![gruvbox][gruvbox_repo] 
   
 <a href="https://github.com/vqh20/QL_DLKB_FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
@@ -16,7 +16,7 @@
 
 [dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&cache_seconds=86400&theme=dark 
 
-[radical_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&cache_seconds=86400&theme=radical
+[radical_repo]:  https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB-BACKEND&cache_seconds=86400&theme=radical
 [merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=LIBRARIA&cache_seconds=86400&theme=merko
 [gruvbox_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox
 
