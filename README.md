@@ -7,7 +7,12 @@
   ![dark][dark_repo]   ![radical][radical_repo] 
    ![merko][merko_repo]   ![gruvbox][gruvbox_repo] 
   
-
+<a href="https://github.com/vqh20/QL_DLKB_FrontEnd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vqh20&repo=QL_DLKB_FrontEnd&cache_seconds=86400&theme=dark 
 
